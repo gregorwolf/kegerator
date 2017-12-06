@@ -96,7 +96,7 @@
 
 /* Begin PBXFileReference section */
 		0937C361DCFC7225E267762F /* KegsdetailsType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KegsdetailsType.swift; path = "Proxy Classes/kegerator/public/KegsdetailsType.swift"; sourceTree = "<group>"; };
-		0B10DFCC5F6F72447E5DB087 /* Base */ = {isa = PBXFileReference; includeInIndex = ""; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Flowsum.storyboard; sourceTree = "<group>"; };
+		0B10DFCC5F6F72447E5DB087 /* Base */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Flowsum.storyboard; sourceTree = "<group>"; };
 		1277F7601F8E66AC0060AF58 /* SAPLogo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SAPLogo@2x.png"; sourceTree = "<group>"; };
 		128604D91E55B41600C698B5 /* SAPCommon.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SAPCommon.framework; sourceTree = "<group>"; };
 		128B53051F8E667000E64DF6 /* SnapshotViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnapshotViewController.swift; sourceTree = "<group>"; };
@@ -104,7 +104,7 @@
 		12E07EF11E96851800460A94 /* CollectionType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionType.swift; sourceTree = "<group>"; };
 		12E84FDE1F4EBD460061C99E /* OnboardingManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingManager.swift; sourceTree = "<group>"; };
 		12E84FE21F4ECC3E0061C99E /* SAPFioriFlows.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SAPFioriFlows.framework; sourceTree = "<group>"; };
-		1337A514430EB200469813F4 /* Base */ = {isa = PBXFileReference; includeInIndex = ""; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Leaders.storyboard; sourceTree = "<group>"; };
+		1337A514430EB200469813F4 /* Base */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Leaders.storyboard; sourceTree = "<group>"; };
 		16CD4E7BA535DE8AAABFF8BD /* BarcelonaMetadataParser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BarcelonaMetadataParser.swift; path = "Proxy Classes/kegerator/internal/BarcelonaMetadataParser.swift"; sourceTree = "<group>"; };
 		1A50C368A8A49C68ECA4014B /* DrinksByEventDetailViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DrinksByEventDetailViewController.swift; path = DrinksByEvent/DrinksByEventDetailViewController.swift; sourceTree = "<group>"; };
 		1C2E8058161EFB7D920AF9E5 /* DrinksByKegType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DrinksByKegType.swift; path = "Proxy Classes/kegerator/public/DrinksByKegType.swift"; sourceTree = "<group>"; };
@@ -120,7 +120,7 @@
 		48B356FBA6F16003A8A02AFD /* LeaderboardType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LeaderboardType.swift; path = "Proxy Classes/kegerator/public/LeaderboardType.swift"; sourceTree = "<group>"; };
 		4ACF1EDF7453B6179273BC76 /* DrinksByKegMasterViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DrinksByKegMasterViewController.swift; path = DrinksByKeg/DrinksByKegMasterViewController.swift; sourceTree = "<group>"; };
 		7256FB97CBB4AEC48E063493 /* FlowsumMasterViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FlowsumMasterViewController.swift; path = Flowsum/FlowsumMasterViewController.swift; sourceTree = "<group>"; };
-		73B8FAC6A4874A4D9153970F /* Base */ = {isa = PBXFileReference; includeInIndex = ""; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Leaderboard.storyboard; sourceTree = "<group>"; };
+		73B8FAC6A4874A4D9153970F /* Base */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Leaderboard.storyboard; sourceTree = "<group>"; };
 		755533971F25FD2A0017A1BC /* SAPOfflineOData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SAPOfflineOData.framework; sourceTree = "<group>"; };
 		7561921A1DBE1A90007F562C /* SAPOData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SAPOData.framework; sourceTree = "<group>"; };
 		7569DA511E5C716A00C5D751 /* SAPFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SAPFoundation.framework; sourceTree = "<group>"; };
@@ -137,11 +137,11 @@
 		881A3E30FFB3EFDB4CC3F4A9 /* KegsType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KegsType.swift; path = "Proxy Classes/kegerator/public/KegsType.swift"; sourceTree = "<group>"; };
 		A015028230239862122770E2 /* LeaderboardDetailViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LeaderboardDetailViewController.swift; path = Leaderboard/LeaderboardDetailViewController.swift; sourceTree = "<group>"; };
 		A294890C03898C837D0A6C15 /* EventsDetailViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EventsDetailViewController.swift; path = Events/EventsDetailViewController.swift; sourceTree = "<group>"; };
-		A8A37F62E7107CE144A1CA5F /* Base */ = {isa = PBXFileReference; includeInIndex = ""; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/DrinksByKeg.storyboard; sourceTree = "<group>"; };
+		A8A37F62E7107CE144A1CA5F /* Base */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/DrinksByKeg.storyboard; sourceTree = "<group>"; };
 		AC34A5E7177EB9DE34E55914 /* FlowsumDetailViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FlowsumDetailViewController.swift; path = Flowsum/FlowsumDetailViewController.swift; sourceTree = "<group>"; };
-		B7ED3726B50AD0AC100A99C4 /* Base */ = {isa = PBXFileReference; includeInIndex = ""; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Kegsflowdetails.storyboard; sourceTree = "<group>"; };
+		B7ED3726B50AD0AC100A99C4 /* Base */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Kegsflowdetails.storyboard; sourceTree = "<group>"; };
 		B8658F40FFEC9D430675D6DE /* KegsflowdetailsDetailViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KegsflowdetailsDetailViewController.swift; path = Kegsflowdetails/KegsflowdetailsDetailViewController.swift; sourceTree = "<group>"; };
-		BF5333FA9045F865950893E7 /* Base */ = {isa = PBXFileReference; includeInIndex = ""; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/DrinksByEvent.storyboard; sourceTree = "<group>"; };
+		BF5333FA9045F865950893E7 /* Base */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/DrinksByEvent.storyboard; sourceTree = "<group>"; };
 		BFA3296EACD737C7B63B9E52 /* KegsdetailsDetailViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KegsdetailsDetailViewController.swift; path = Kegsdetails/KegsdetailsDetailViewController.swift; sourceTree = "<group>"; };
 		BFBBB829744A18D8BDB605E9 /* BarcelonaMetadataChanges.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BarcelonaMetadataChanges.swift; path = "Proxy Classes/kegerator/internal/BarcelonaMetadataChanges.swift"; sourceTree = "<group>"; };
 		C3812E4F18B9F8208F0B1446 /* Barcelona.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Barcelona.swift; path = "Proxy Classes/kegerator/public/Barcelona.swift"; sourceTree = "<group>"; };
@@ -150,9 +150,9 @@
 		CE1768C7F2773815B263981B /* LeadersDetailViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LeadersDetailViewController.swift; path = Leaders/LeadersDetailViewController.swift; sourceTree = "<group>"; };
 		D025E02BE0ADA0DDE28E9811 /* KegsDetailViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KegsDetailViewController.swift; path = Kegs/KegsDetailViewController.swift; sourceTree = "<group>"; };
 		D3F7F9CEB240EE314D50739D /* DrinksByKegDetailViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DrinksByKegDetailViewController.swift; path = DrinksByKeg/DrinksByKegDetailViewController.swift; sourceTree = "<group>"; };
-		D4B426D7E333723DFB337B88 /* Base */ = {isa = PBXFileReference; includeInIndex = ""; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Kegsdetails.storyboard; sourceTree = "<group>"; };
-		E1D75F621CFEF4DF3087DAFE /* Base */ = {isa = PBXFileReference; includeInIndex = ""; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Kegs.storyboard; sourceTree = "<group>"; };
-		E2410DB2E8937B80C98E68E5 /* Base */ = {isa = PBXFileReference; includeInIndex = ""; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Events.storyboard; sourceTree = "<group>"; };
+		D4B426D7E333723DFB337B88 /* Base */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Kegsdetails.storyboard; sourceTree = "<group>"; };
+		E1D75F621CFEF4DF3087DAFE /* Base */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Kegs.storyboard; sourceTree = "<group>"; };
+		E2410DB2E8937B80C98E68E5 /* Base */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Events.storyboard; sourceTree = "<group>"; };
 		EC00828633C9E9EA530CBF91 /* LeaderboardMasterViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LeaderboardMasterViewController.swift; path = Leaderboard/LeaderboardMasterViewController.swift; sourceTree = "<group>"; };
 		EE91D0E954D67422820DC7B1 /* LeadersType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LeadersType.swift; path = "Proxy Classes/kegerator/public/LeadersType.swift"; sourceTree = "<group>"; };
 		F330EAEEA315FBE4DCF99933 /* KegsflowdetailsMasterViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KegsflowdetailsMasterViewController.swift; path = Kegsflowdetails/KegsflowdetailsMasterViewController.swift; sourceTree = "<group>"; };
@@ -430,6 +430,7 @@
 				TargetAttributes = {
 					7A1315B41D4B982000A5DA56 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = H7XS9TZH95;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
@@ -744,7 +745,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = H7XS9TZH95;
 				EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE = NO;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -767,7 +768,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = H7XS9TZH95;
 				EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE = NO;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
